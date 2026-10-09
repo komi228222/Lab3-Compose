@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Дедушев Павел Андреевич</string>
+    <string name="title">Student</string>
+    <string name="phone">+7 (996) 331-06-34</string>
+    <string name="social">@komi_swag67</string>
+    <string name="email">pashaandreev66666@gmail.com</string>
+</resources>
